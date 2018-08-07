@@ -1,0 +1,12 @@
+[user]
+	username = zofrex
+	name = James zofrex Sanderson
+	location = London, UK
+	bio = Developer (Android, web [backend, frontend]), hacker, social justice warrior
+	signingkey = 9de2c1b225c12569bdc86d24bdff0a80b8239d91
+[commit]
+	gpgsign = true
+[aliases]
+	keybase = zofrex
+	twitter = zofrex
+	github = zofrex
